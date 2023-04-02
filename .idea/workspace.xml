@@ -4,16 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f2c5ab7-f3e8-49ed-b555-0edfa925a953" name="Changes" comment="" />
+    <list default="true" id="8f2c5ab7-f3e8-49ed-b555-0edfa925a953" name="Changes" comment="commit!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Nr9GfdrC7eYkzxqJJw34dDA4VM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,11 +47,23 @@
       <option name="presentableId" value="Default" />
       <updated>1680411240017</updated>
       <workItem from="1680411242290" duration="49000" />
-      <workItem from="1680411321531" duration="721000" />
+      <workItem from="1680411321531" duration="1376000" />
     </task>
+    <task id="LOCAL-00001" summary="commit!">
+      <created>1680412095434</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680412095434</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit!" />
   </component>
 </project>

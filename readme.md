@@ -12,3 +12,4 @@ In this project I implemented 2 different algorithms for POS Tagging and 2 diffe
 
 - Developed on Python 3.8
 - Used PyTorch framework
+- testtest
